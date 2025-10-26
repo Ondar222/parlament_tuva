@@ -17,16 +17,14 @@ const demoData = {
       title: "Сессия Верховного Хурала",
       description: "Законодательные инициативы и повестка дня",
       link: "#/news",
-      image:
-        "https://shyn.ru/media/cache/2023/06/05/dergva87nj4-2e3723e664.jpg",
+      image: "/images/slider1.jpg",
     },
     {
       id: "s2",
       title: "Работа комитетов",
       description: "Обсуждение проектов законов",
       link: "#/documents",
-      image:
-        "https://avatars.mds.yandex.net/i?id=785348fd125b6ba467c4ffc424c7c663_l-10842658-images-thumbs&n=13",
+      image: "/images/slider2.jpg",
     },
   ],
   news: [
